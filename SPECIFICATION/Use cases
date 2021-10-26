@@ -1,0 +1,22 @@
+The current specification aims to describe requirements to cover the following use cases:
+- First registration with document issuance
+- Authentication of a person
+  - Online authentication of a person
+- Offline authentication of a person
+- Management of identity
+- Renewall of id card
+- Mother and child care
+  - Birth registration
+  - Child medical care
+  - Infant vaccination
+  - Mother or child identification
+  - Pregnancy follow-up
+- Revocation of credentials
+- Death registration
+- Linking data from different databases
+- On-boarding into a functional service provider
+- Revocation from a service provider
+- Later features
+  - Digital signature
+  - Digital safe
+  - Issuance of an id wallet
