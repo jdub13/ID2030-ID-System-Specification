@@ -1,11 +1,11 @@
 The following are the requirements for mother and child care:
-- Mother and child care
+- Birth registration
 - Child medical care
 - Infant vaccination
 - Mother or child identification
 - Pregnancy follow-up
 
-# Mother and child care
+# Birth registration
 | DOMAIN                      | SUB-DOMAIN                                                                     | O/M | Requirements                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------ | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Birth Declaration           | Birth Declaration by Health staff                                              | M   | Birth declaration can be achieved using a cost-effective 2G connected device app allowing to fill in a form containing data of the birth declaration by an authorized autority (doctor, nurse, local authority), after authentication of the authorized authority the form is sent with 2G, 3G or 4G network up to the Civil Registry system which aknoledge the declaration by sending back a ACK message.                                                                                                                                                                                                                             |
